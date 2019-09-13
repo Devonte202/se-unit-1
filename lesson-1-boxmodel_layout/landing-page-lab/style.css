@@ -1,0 +1,51 @@
+html{
+    background-color: #a58686;
+}
+
+#journal-banner{
+    height: 230px;
+    width: 1050px;
+    background-color: #c8b9b9;
+    text-align: center;
+   margin: 0 auto;
+}
+
+h1{
+    padding-top: 10px;
+    font-size: 90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #4f4040;
+}
+
+h4{
+    color: #4f4040;
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+
+}
+
+#to-do-list{
+    width: 352.5px;
+    height:700px;
+    background-color: #839c97;
+    margin-left: 146px;
+    display: inline-block;
+}
+
+#journal-entry{
+    width: 697.5px;
+    height: 700px;
+    display: inline-block;
+    background-color: #d4c5c5;
+    margin-right: 80px;
+}
+
+p{
+    padding: 20px;
+}
+
+ul{
+    padding: 20px;
+}
